@@ -1,0 +1,10 @@
+{
+  "name": "Nexus Global Dev — Sk Sopon Roy",
+  "short_name": "Nexus Dev",
+  "description": "AI architecture, automations, and digital tools by Sk Sopon Roy.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111e",
+  "theme_color": "#07111e",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
